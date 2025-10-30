@@ -23,14 +23,14 @@ author:
   avatar           : "profile.png"
   name             : "Kristine Baekgaard"
   pronouns         : "she/her"  
-  bio              : "Kristine Baekgaard (beck-guard) is a PhD student in the Department of International Relations at LSE. Her research investigates how technology-facilitated gender-based violence (TFGBV) manifests for women peacebuilders and activists and explores the implications for their participation in peacebuilding efforts. Her research aims to illuminate gendered risks in digital spaces, identify coping mechanisms, and propose actionable strategies to enhance the safety and digital agency of women peacebuilders."
+  bio              : "Kristine Baekgaard (beck-guard) is a PhD student with expertise in gender and security, masculinity, technology-facilitated gender-based violence, and Women, Peace and Security."
   location         : "London, UK"
   employer         : "London School of Economics and Political Science"
   uri              : 
   email            : "k.baekgaard@lse.ac.uk" 
 
   # Academic websites
-  academia         : 
+  academia         : "https://www.lse.ac.uk/people/kristine-baekgaard"
   arxiv            : 
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=_hPwBPsAAAAJ"
   inspire-hep      : 
